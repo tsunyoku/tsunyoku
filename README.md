@@ -1,3 +1,4 @@
+
 ## About me
 Hey, welcome to my profile!
 I am more commonly known as James by my friends.
@@ -9,9 +10,7 @@ Generally I mess around with code for fun, however I have some serious osu!-rela
 
 ### Languages I know:
 
-<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
-
-
+<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/> <br/>
 
 ### Languages I am learning:
 
@@ -24,7 +23,7 @@ Generally I mess around with code for fun, however I have some serious osu!-rela
 ### IDE's:
 
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
-<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rider.png"/>
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rider.png"/> <br/>
 
 
 
