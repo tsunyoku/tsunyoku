@@ -32,4 +32,4 @@ I'm on many social medias, chances are you will find me with my username almost 
 ## My coding activity
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tsunyoku&show_icons=true&theme=dracula) <br/>
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunyoku&theme=dracula)
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunyoku&theme=dracula)
