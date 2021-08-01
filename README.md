@@ -1,4 +1,3 @@
-
 ## About me
 Hey, welcome to my profile!
 I am more commonly known as James by my friends.
@@ -18,14 +17,10 @@ Generally I mess around with code for fun, however I have some serious osu!-rela
 <img style="padding: 1.5px" align="left" alt="Go" width="20px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//go.svg"/>
 <img style="padding: 1.5px" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rust.svg"/>
 
-
-
 ### IDE's:
 
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rider.png"/> <br/>
-
-
 
 ## Contact me
 Discord: tsunyoku#4631 \
