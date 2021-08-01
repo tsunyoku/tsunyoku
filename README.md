@@ -33,4 +33,3 @@ I'm on many social medias, chances are you will find me with my username almost 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tsunyoku&show_icons=true&theme=dracula) <br/>
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsunyoku&theme=dracula&exclude_repo=aether)
-![Mywakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tsunyoku&layout=compact&exclude_repo=aether&theme=dracula)
