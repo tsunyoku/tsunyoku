@@ -23,7 +23,7 @@ Generally I mess around with code for fun, however I have some serious osu!-rela
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rider.png"/> <br/>
 
 ## Contact me
-Discord: tsunyoku#4631 \
+Discord: tsunyoku#0066 \
 Twitter: [@tsunyoku](https://twitter.com/tsunyoku) \
 Email:   [tsunyoku@gmail.com](mailto:tsunyoku@gmail.com)
 
