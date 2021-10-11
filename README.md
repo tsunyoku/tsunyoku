@@ -9,11 +9,11 @@ Generally I mess around with code for fun, however I have some serious osu!-rela
 
 ### Languages I know:
 
-<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/> <br/>
+<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
 <img style="padding: 1.5px" align="left" alt="Go" width="20px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//go.svg"/>
 <img style="padding: 1.5px" align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
 <img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
-<img style="padding: 1.5px" align="left" alt="Java" width="16px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//java.svg"/>
+<img style="padding: 1.5px" align="left" alt="Java" width="16px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//java.svg"/> </br>
 
 ### Languages I am learning:
 
