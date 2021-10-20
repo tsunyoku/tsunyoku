@@ -9,7 +9,7 @@ Generally I mess around with code for fun, however I have some serious osu!-rela
 
 If you want to hire me to do work for you, I have a [Fiverr](https://fiverr.com/tsunyoku) where I offer rather cheap prices!
 
-[<p align="center"><img src="https://github.com/tsunyoku/tsunyoku/raw/main/imageedit_1_3618205858.png"/></p>](https://fiverr.com/tsunyoku) </br>
+[<p align="center"><img width="113px" height="111px" src="https://github.com/tsunyoku/tsunyoku/raw/main/imageedit_1_3618205858.png"/></p>](https://fiverr.com/tsunyoku) </br>
 
 ## Languages and IDEs
 
