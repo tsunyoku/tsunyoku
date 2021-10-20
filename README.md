@@ -4,6 +4,7 @@ I am more commonly known as James by my friends.
 I'm a 15 year old developer and freelancer who is passionate mainly about Python and C#, but I am learning other languages.
 
 Generally I mess around with code for fun, however I have some serious osu!-related projects such as [Asahi](https://github.com/tsunyoku/Asahi)
+
 If you want to hire me to do work for you, I have a [Fiverr](https://fiverr.com/tsunyoku) where I offer rather cheap prices!
 
 ## Languages and IDEs
