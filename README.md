@@ -1,7 +1,7 @@
 ## About me
 Hey, welcome to my profile!
 I am more commonly known as James by my friends.
-I'm a 15 year old developer and freelancer who is passionate mainly about Python and C#, but I am learning other languages.
+I'm a 15 year old developer and freelancer who is passionate mainly about Python, Rust and C#, but I am learning other languages.
 
 Generally I mess around with code for fun, however I have some serious osu!-related projects such as [Asahi](https://github.com/tsunyoku/Asahi)
 
@@ -19,11 +19,12 @@ If you want to hire me to do work for you, I have a [Fiverr](https://fiverr.com/
 <img style="padding: 1.5px" align="left" alt="Go" width="20px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//go.svg"/>
 <img style="padding: 1.5px" align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
 <img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
+<img style="padding: 1.5px" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rust.svg"/>
 <img style="padding: 1.5px" align="left" alt="Java" width="16px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//java.svg"/> </br>
 
 ### Languages I am learning:
 
-<img style="padding: 1.5px" alt="Rust" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//rust.svg"/>
+None at the minute
 
 ### IDEs I use:
 
