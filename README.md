@@ -5,8 +5,6 @@ I'm a 15 year old developer and freelancer who is passionate mainly about Python
 
 Generally I mess around with code for fun, however I have some serious osu!-related projects such as [Asahi](https://github.com/tsunyoku/Asahi)
 
-[<p align="center"><img width="113px" height="111px" src="https://github.com/tsunyoku/tsunyoku/raw/main/imageedit_1_3618205858.png"/></p>](https://fiverr.com/tsunyoku) </br>
-
 ## Languages and IDEs
 
 ### Languages I know:
