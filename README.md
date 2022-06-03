@@ -27,7 +27,6 @@ None at the minute
 
 ## Contact me
 Discord: tsunyoku#0066 \
-Twitter: [@tsunyoku](https://twitter.com/tsunyoku) \
 Email:   [tsunyoku@gmail.com](mailto:tsunyoku@gmail.com)
 
 I'm on many social medias, chances are you will find me with my username almost everywhere.
