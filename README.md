@@ -1,9 +1,6 @@
 ## About me
-Hey, welcome to my profile!
-I am more commonly known as James by my friends.
-I'm a 15 year old developer and freelancer who is passionate mainly about Python, Rust and C#, but I am learning other languages.
-
-Generally I mess around with code for fun, however I have some serious osu!-related projects such as [Asahi](https://github.com/tsunyoku/Asahi)
+Hey! I am tsunyoku, more commonly known as James.
+I'm a 16 year old developer and freelancer who is passionate mainly about Python, C# and Rust.
 
 ## Languages and IDEs
 
